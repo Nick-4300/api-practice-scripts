@@ -73,7 +73,3 @@ python task1_posts.py
 ```bash
 python task2_weather.py
 ```
-
-## Важно
-
-Файл `.env` содержит секретный API-ключ и **не должен** попадать в Git.
